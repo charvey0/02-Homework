@@ -1,5 +1,5 @@
 img {
-    padding-top: 20px;
+    padding: 20px;
 }
 
 footer{
@@ -19,4 +19,5 @@ main{
     background-color: white;
     padding: 30px;
     margin-top: 90px;
+    margin-bottom: 90px;
 }
