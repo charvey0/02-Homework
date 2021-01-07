@@ -31,10 +31,10 @@ There is a lot of ways to do this activity and sometimes I was a bit overwhelmed
 ## Screenshots of the project:
 
 ##### About Me Page
-![About Me Page](Assets\Images\about.png)
+![About Me Page](Assets/Images/about.png)
 
 ##### Contact Page
-![Contact Page](Assets\Images\contact.png)
+![Contact Page](Assets/Images/contact.png)
 
 ##### Portfolio Page
-![Portfolio Page](Assets\Images\portfolio.png)
+![Portfolio Page](Assets/Images/portfolio.png)
