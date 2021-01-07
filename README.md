@@ -22,8 +22,19 @@ Some things I want to know more about:
 
 ---
 
-### Struggles:
+## Struggles:
 
 I had a hard time figuring out what to do with the Contact form.  I write a PHP script to process it, but GitHub Pages are static and don't let us use PHP.  Then I did a simple mailto:, but I did not like sending the user to their email program (if it was even set up).  Anyway, I settled on the alert that strongly implies that the message was sent, but in reality it was not.
 
 There is a lot of ways to do this activity and sometimes I was a bit overwhelmed by the wide variety ways of completing the task.
+
+## Screenshots of the project:
+
+##### About Me Page
+![About Me Page](Assets\Images\Cameron Harvey   About Me.png)
+
+##### Contact Page
+![Contact Page](Assets\Images\Cameron Harvey   Contact.png)
+
+##### Portfolio Page
+![Portfolio Page](Assets\Images\Cameron Harvey   Portfolio.png)
